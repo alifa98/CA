@@ -1,9 +1,11 @@
+## This gitignore ignore everything except vhdl files and directory structure.
+
 # ignore everything
 *
 
 # but don't ignore files ending with slash = directories
 !*/
 
-# and don't ignore files ending with ".php"
+# and don't ignore files ending with ".vhd" = VHDL files
 !*.vhd
 
