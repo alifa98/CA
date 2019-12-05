@@ -106,7 +106,6 @@ BEGIN
 		B <= "0100";
 		cin <= '1';
 
-      wait;
    end process;
 
 END;
