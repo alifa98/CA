@@ -8,4 +8,4 @@
 
 # and don't ignore files ending with ".vhd" = VHDL files
 !*.vhd
-
+!*.ucf

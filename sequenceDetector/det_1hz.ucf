@@ -1,0 +1,8 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "output_total[1]" LOC = P42;
+NET "output_total[0]" LOC = P43;
+NET "CLK_reset" LOC = P183;
+NET "input_total" LOC = P161;
+NET "CLK_total" LOC = P184;
