@@ -1,0 +1,14 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "A_f[3]" LOC = P183;
+NET "A_f[2]" LOC = P182;
+NET "A_f[1]" LOC = P181;
+NET "A_f[0]" LOC = P180;
+NET "B_f[3]" LOC = P171;
+NET "B_f[2]" LOC = P169;
+NET "B_f[1]" LOC = P168;
+NET "B_f[0]" LOC = P167;
+NET "E_f" LOC = P43;
+NET "G_f" LOC = P42;
+NET "L_f" LOC = P44;
